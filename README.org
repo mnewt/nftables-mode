@@ -1,0 +1,5 @@
+#+title: nftables-mode
+
+nftables major mode for Emacs
+
+This mode was created by Trent W. Buck. I uploaded his great work here and slapped on some package headers in the hope that he wouldn't mind and maybe someone else will find it useful.
